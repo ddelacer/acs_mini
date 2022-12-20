@@ -1,10 +1,10 @@
 # Broad ACS mini project
 
-##Created by David de la Cerda
+#Created by David de la Cerda
 
 Files here were provided from Dr. Grace Tiao and were used to generate a PCA plot and estimate the ancestry of unknown individuals in the dataset provided.
 
-##Navigating the files
+#Navigating the files
 
 The primary files of interest are:
 
