@@ -10,7 +10,7 @@ The primary files of interest are:
 
 `mini_final.sh`
 
-This executable was used to filter, generate PCs, and estimate ancestry
+This executable was used to filter, generate PCs, and estimate ancestry.
 
 `mini_acs_PCA.R`
 
