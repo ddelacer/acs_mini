@@ -2,7 +2,8 @@
 
 **Created by David de la Cerda**
 
-Files here were provided from Dr. Grace Tiao and were used to generate a PCA plot and estimate the ancestry of unknown individuals in the dataset provided.
+Files here anonymized SNP data and samples with known and unknown ancestry. Data were provided from Dr. Grace Tiao and were used to generate PCA plots and an analysis was performed to estimate the ancestry of unknown individuals.
+
 
 **Navigating the files**
 
